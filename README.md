@@ -3,7 +3,7 @@ Building a natural language processing (NLP) model to automate the process of ge
 Used technology
 The project uses cutting-edge NLP methods and machine learning algorithms to build a reliable and clever response creation system. To train and improve the model, a variety of NLP tools and frameworks, including TensorFlow, PyTorch, and NLTK, are used. Additionally, deep learning architectures are employed to improve the model's comprehension of client queries and produce suitable responses, such as recurrent neural networks (RNNs) or transformer-based models.
 
-# Methodology/ Planning of work
+# Methodology
 1. Data Collection and Preprocessing:
 Creating a diversified dataset of customer assistance inquiries and accompanying responses is the first step in our endeavour. To improve the functionality of the system, we will also gather additional data, such as user preferences or commonly asked questions.
 2. GUI Design using HTML, CSS, and JavaScript:
