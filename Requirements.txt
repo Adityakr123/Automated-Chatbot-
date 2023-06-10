@@ -10,5 +10,4 @@ here are few requirements :
     django
     comands like pip,conda and conda forge can be used .
 3. Get a interactive IDE like vscode
-4. Further instructions could be seen in Instruction.txt
- 
+4. Further instructions could be seen in Instruction.txt 
